@@ -12,8 +12,8 @@
 <a href="https://site-educa-react.vercel.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview.jpg)
-![alt text](preview-responsive.jpg)
+![preview](https://github.com/daniel-portela/site-educa-react/assets/110783805/63262595-de77-4e5a-8b23-8d842e744b36)
+![preview-responsive](https://github.com/daniel-portela/site-educa-react/assets/110783805/34a850d0-bc52-45fd-b66a-2fbd1d1457bd)
 
 Funcionalidades principais:
 
