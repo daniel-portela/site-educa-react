@@ -1,14 +1,15 @@
 <div align="center">
 
-<a href="https://danielportela.netlify.app/">Site educacional</a> com React
+<a href="https://site-educa-react.vercel.app/">Site educacional</a> com React JS
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
 
-<p><a href="https://danielportela.netlify.app/">O EDUCA+</a> é um projeto dedicado à transformação da educação online, oferecendo uma plataforma abrangente para aprendizado e ensino. A missão é proporcionar uma experiência educacional de alta qualidade, transcendendo as fronteiras tradicionais da aprendizagem.</p>
+<p><a href="hhttps://site-educa-react.vercel.app/">O EDUCA+</a> é um projeto dedicado à transformação da educação online, oferecendo uma plataforma abrangente para aprendizado e ensino. A missão é proporcionar uma experiência educacional de alta qualidade, transcendendo as fronteiras tradicionais da aprendizagem.</p>
 
-<a href="https://danielportela.netlify.app/"><strong>Demonstração ao vivo</strong></a>
+<a href="https://site-educa-react.vercel.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
 ![alt text](preview.jpg)
@@ -36,11 +37,8 @@ O EDUCA+ é desenvolvido utilizando tecnologias modernas para garantir uma exper
 
 - HTML5/CSS3: Fundamentais para estruturação e estilo do site.
 
-- JavaScript: Para funcionalidades dinâmicas e interativas.
+- JavaScript: Para funcionalidades dinâmicas e interativas.<br><br>
 
-- Node.js: Utilizado no backend para operações de servidor.<br><br>
-
-Confira todos os códigos <a href="https://danielportela.netlify.app/">aqui</a><br><br>
 
 <b>Autor</b>
 
@@ -52,9 +50,9 @@ Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem pe
 
 <b>Contato:</b>
 
-Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em nos contatar.
+Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-Email: danielportela.ti@gmail.com
+Email: <a href="mailto:danielportela.ti@gmail.com">danielportela.ti@gmail.com</a>
 
 <a href="https://linkedin.com/in/danielengineer" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
