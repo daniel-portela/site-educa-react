@@ -2,20 +2,20 @@
 
 <a href="https://site-educa-react.vercel.app/">Site educacional</a> com React JS
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
-
 <p><a href="hhttps://site-educa-react.vercel.app/">O EDUCA+</a> é um projeto dedicado à transformação da educação online, oferecendo uma plataforma abrangente para aprendizado e ensino. A missão é proporcionar uma experiência educacional de alta qualidade, transcendendo as fronteiras tradicionais da aprendizagem.</p>
-
-<a href="https://site-educa-react.vercel.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
 ![preview](https://github.com/daniel-portela/site-educa-react/assets/110783805/63262595-de77-4e5a-8b23-8d842e744b36)
 ![preview-responsive](https://github.com/daniel-portela/site-educa-react/assets/110783805/34a850d0-bc52-45fd-b66a-2fbd1d1457bd)
 
-Funcionalidades principais:
+👨🏼‍💻 <b>Tecnologias utilizadas:</b>
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;<hr>
+
+🛠️ <b>Recursos e funcionalidades:</b>
 
 - Início: Página inicial intuitiva e informativa.
 
@@ -29,7 +29,7 @@ Funcionalidades principais:
 
 - Inscrever-se: Facilidade para novos alunos se registrarem.<br><br>
 
-Tecnologias utilizadas:
+👨🏼‍💻 <b>Tecnologias:</b>
 
 O EDUCA+ é desenvolvido utilizando tecnologias modernas para garantir uma experiência de usuário fluida e eficaz. Algumas das tecnologias principais incluem:
 
@@ -39,16 +39,15 @@ O EDUCA+ é desenvolvido utilizando tecnologias modernas para garantir uma exper
 
 - JavaScript: Para funcionalidades dinâmicas e interativas.<br><br>
 
+👨🏼‍💻 <b>Autor</b>
 
-<b>Autor</b>
+Este projeto foi desenvolvido por <a href="https://github.com/daniel-portela/">Daniel Portela</a><br><br>
 
-Este projeto foi desenvolvido por <a href="https://github.com/daniel-portela/">Daniel Portela</a>
+🔒 <b>Licença</b>
 
-<b>Licença</b>
+Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.<br><br>
 
-Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
-
-<b>Contato:</b>
+✉️ <b>Contato:</b>
 
 Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
